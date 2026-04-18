@@ -23,7 +23,7 @@ The dashboard provides a "data-driven approach to retention strategy", helping b
 - Enable better decision-making for retention strategies
 
 
-3. Dashboard Highlights
+3. Dashboard Highlights:
 
 * Key Metrics
 
@@ -35,22 +35,22 @@ The dashboard provides a "data-driven approach to retention strategy", helping b
  * Key Visuals
 
  1. Customer Retention Overview:
- - Shows churn vs retained customers (Donut Chart)
+  - Shows churn vs retained customers (Donut Chart)
 
  2. Churn by Contract Type: 
- - Highlights that "month-to-month customers churn the most"
+  - Highlights that "month-to-month customers churn the most"
 
  3. Churn Rate by Tenure Band: 
- - Early-stage customers (0–6 months) are most likely to churn
+  - Early-stage customers (0–6 months) are most likely to churn
 
  4. Monthly Charges Analysis: 
- - Higher charges show correlation with churn behavior
+  - Higher charges show correlation with churn behavior
 
  5. Service Impact (Online Security & Backup): 
- - Value-added services influence retention patterns
+  - Value-added services influence retention patterns
 
  6. Customer Risk Segmentation: 
- - Identifies high-risk vs normal customers
+  - Identifies high-risk vs normal customers
 
 
 * Key Insights
