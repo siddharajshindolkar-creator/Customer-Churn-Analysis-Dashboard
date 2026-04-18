@@ -121,7 +121,7 @@ This dashboard helps organizations:
 
 
 
-***Author:***
-Siddharaj Shindolkar
+***Author***
+**Siddharaj Shindolkar**
 Aspiring Data Analyst | Power BI | SQL | Excel
 
