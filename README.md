@@ -106,6 +106,7 @@ The dashboard provides a "data-driven approach to retention strategy", helping b
 
 
 ***8. Dashboard Preview:*** 
+     https://github.com/siddharajshindolkar-creator/Customer-Churn-Analysis-Dashboard/blob/main/Customer%20Churn%20Analysis%20Dashboard.PNG
 
 
 
