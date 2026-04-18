@@ -1,9 +1,10 @@
-Customer Churn Analysis Dashboard (Power BI): 
+***Customer Churn Analysis Dashboard (Power BI):***
 
-An interactive "Power BI dashboard" designed to analyze customer churn, identify high-risk segments, and uncover actionable insights to improve customer retention and revenue.
+**An interactive "Power BI dashboard" designed to analyze customer churn, identify high-risk segments, and uncover actionable insights to improve customer retention and revenue.**
 
 
-1. Project Overview: 
+
+***1. Project Overview:***
 
 Customer churn is one of the biggest challenges in subscription-based businesses. This project focuses on analyzing customer data to understand:
 
@@ -14,7 +15,8 @@ Customer churn is one of the biggest challenges in subscription-based businesses
 The dashboard provides a "data-driven approach to retention strategy", helping businesses take proactive actions.
 
 
-2. Objectives:
+
+***2. Objectives:***
 
 - Analyze overall churn rate and customer distribution
 - Identify high-risk customer segments
@@ -23,37 +25,38 @@ The dashboard provides a "data-driven approach to retention strategy", helping b
 - Enable better decision-making for retention strategies
 
 
-3. Dashboard Highlights:
 
-* Key Metrics
+***3. Dashboard Highlights:***
+
+**Key Metrics**
 
 - Total Customers: 7043
 - Churn Rate: 26.54%
 - Churned Customers: 1869
 
 
- * Key Visuals
+**Key Visuals**
 
- 1. Customer Retention Overview:
+ *1. Customer Retention Overview:*
   - Shows churn vs retained customers (Donut Chart)
 
- 2. Churn by Contract Type: 
+ *2. Churn by Contract Type:*
   - Highlights that "month-to-month customers churn the most"
 
- 3. Churn Rate by Tenure Band: 
+ *3. Churn Rate by Tenure Band:*
   - Early-stage customers (0–6 months) are most likely to churn
 
- 4. Monthly Charges Analysis: 
+ *4. Monthly Charges Analysis:*
   - Higher charges show correlation with churn behavior
 
- 5. Service Impact (Online Security & Backup): 
+ *5. Service Impact (Online Security & Backup):*
   - Value-added services influence retention patterns
 
- 6. Customer Risk Segmentation: 
+ *6. Customer Risk Segmentation:*
   - Identifies high-risk vs normal customers
 
 
-* Key Insights
+**Key Insights**
 
   - New Customers Are High Risk:** Majority churn occurs within first 6 months
   - Contract Type Matters:** Month-to-month contracts have highest churn
@@ -62,7 +65,8 @@ The dashboard provides a "data-driven approach to retention strategy", helping b
   - Retention Opportunity:** High-risk customers can be targeted with personalized offers
 
 
-4. Tech Stack: 
+
+***4. Tech Stack:***
 
  - Power BI Desktop** – Dashboard development
  - Power Query** – Data transformation & cleaning
@@ -70,7 +74,8 @@ The dashboard provides a "data-driven approach to retention strategy", helping b
  - Data Modeling** – Relationships between tables
 
 
-5.  Dataset: 
+
+***5. Dataset:*** 
 
  - Source: Telecom Customer Churn Dataset
  - Size: ~7,000 customers
@@ -83,14 +88,15 @@ The dashboard provides a "data-driven approach to retention strategy", helping b
     * Churn status
 
 
-6. Files in Repository: 
+
+***6. Files in Repository:***
  
   - `Customer Churn Analysis Report.pbit` – Power BI template file
   - `dashboard-preview.png` – Dashboard screenshot
   - `README.md` – Project documentation
 
 
-7.  How to Use: 
+***7.  How to Use:***
 
    1. Download the `.pbit` file from this repository
    2. Open it in **Power BI Desktop**
@@ -99,11 +105,11 @@ The dashboard provides a "data-driven approach to retention strategy", helping b
 
 
 
-8. Dashboard Preview: 
+***8. Dashboard Preview:*** 
 
 
 
-9. Business Impact: 
+***9. Business Impact:***
 
 This dashboard helps organizations:
 
@@ -114,7 +120,7 @@ This dashboard helps organizations:
 
 
 
-Author
+***Author***
 Siddharaj Shindolkar
 Aspiring Data Analyst | Power BI | SQL | Excel
 
