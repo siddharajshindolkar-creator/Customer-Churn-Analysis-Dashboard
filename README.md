@@ -120,7 +120,7 @@ This dashboard helps organizations:
 
 
 
-***Author***
+***Author:***
 Siddharaj Shindolkar
 Aspiring Data Analyst | Power BI | SQL | Excel
 
