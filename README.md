@@ -58,11 +58,11 @@ The dashboard provides a "data-driven approach to retention strategy", helping b
 
 **Key Insights**
 
-  - New Customers Are High Risk:** Majority churn occurs within first 6 months
-  - Contract Type Matters:** Month-to-month contracts have highest churn
-  - Pricing Sensitivity:** Customers with higher monthly charges churn more
-  - Service Adoption Helps:** Customers using additional services are more likely to stay
-  - Retention Opportunity:** High-risk customers can be targeted with personalized offers
+  - New Customers Are High Risk: Majority churn occurs within first 6 months
+  - Contract Type Matters: Month-to-month contracts have highest churn
+  - Pricing Sensitivity: Customers with higher monthly charges churn more
+  - Service Adoption Helps: Customers using additional services are more likely to stay
+  - Retention Opportunity: High-risk customers can be targeted with personalized offers
 
 
 
